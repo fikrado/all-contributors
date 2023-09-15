@@ -1,5 +1,5 @@
 ---
-id: emoji-key
+id: security
 title: Emoji Key ✨ (and Contribution Types)
 sidebar_label: Emoji Key ✨
 ---
